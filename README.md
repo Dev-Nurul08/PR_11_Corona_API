@@ -7,9 +7,8 @@ A modern, responsive web application that allows users to view real-time COVID-1
 ## 🚀 Live Deployment
 
 🔗 **Live Demo (Vercel):**
-[https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+[Click Here For Preview](https://pr-11-corona-api-ten.vercel.app/)
 
-> Replace this link with your actual Vercel deployment URL once deployed.
 
 ---
 
